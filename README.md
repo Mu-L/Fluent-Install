@@ -20,6 +20,7 @@
 - **一键操作**: 简化的安装流程，一键完成依赖安装和程序启动
 
 ## 📸 截图展示
+<img width="1563" height="1052" alt="image" src="https://github.com/user-attachments/assets/9096d401-f476-44a4-b16e-1f9f95100c76" />
 <img width="1250" height="875" alt="image" src="https://github.com/user-attachments/assets/d6684ad1-8189-487f-b345-ecda480be591" />
 <img width="1250" height="875" alt="image" src="https://github.com/user-attachments/assets/75aa317f-21b0-409d-9b5b-09bf5e36e0dd" />
 <img width="1250" height="875" alt="image" src="https://github.com/user-attachments/assets/e7c2b744-0c3c-4484-a908-70ca761d0480" />
