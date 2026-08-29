@@ -28,7 +28,7 @@
 
 下载地址：
 
-https://1823125279.share.123pan.cn/123pan/Gk8wjv-5EBCd
+链接：https://pan.xunlei.com/s/VP0AY0Vwn3vuYo09vP3kxFiWA1?pwd=zun2# 复制这段内容后打开「手机迅雷 App」即可获取。无需下载在线查看，视频原画享倍速播放
 
 ---
 
