@@ -6,7 +6,7 @@
 | 来源 | 链接 |
 | --- | --- |
 | GitHub | [点击下载](https://github.com/zhouchentao666/Fluent-Install/releases/latest) |
-| 国内云盘 | [点击下载密码1234](https://wwazq.lanzoub.com/b00odsy2kd) |
+| 夸克网盘 | [点击下载](https://pan.quark.cn/s/99d84b14e2b2) |
 | 开源地址 | [GitHub](https://github.com/zhouchentao666/Fluent-Install/) |
 
 双击FluentInstall.exe启动
