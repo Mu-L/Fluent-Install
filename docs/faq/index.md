@@ -60,6 +60,8 @@ Steam\appcache\httpcache 文件夹
 - lua/清单/错误
 - 单纯网不好，多尝试几次
 - 清缓存
+- <img width="1345" height="673" alt="322718c72d7268fb2d825d1ffd685240" src="https://github.com/user-attachments/assets/716e80aa-a2c8-4652-b773-4f7b2c2f0dc8" />去设置打开这个
+
 - **将游戏没有大小的 DLC 取消勾选**
 
 ### 内容仍处于加密状态
